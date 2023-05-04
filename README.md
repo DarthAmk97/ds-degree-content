@@ -43,7 +43,7 @@ This course covers the basic concepts and principles of neural computation as an
 - Deep neural networks: concepts and architectures.
 - ANN applications and recent advances: basic issues and strategies in neural network applications, data collection and preprocessing, classification, regression, prediction, and intelligent control, recent advances in neural network research and development, support vector machine (SVM), reinforcement learning, neuro-fuzzy networks, etc.
 
-- My two cents on the course:
+My two cents on the course:
 I still have yet to see SOM or ART in the popular mainstream ML/DL universe and I follow quite a lot of quality content churned out by Yann LeCun, Francois Chollet, and the likes of Yoshua Bengio and Geoff Hinton, never seen anyone mention these techniques. Anyway, I feel like this course did serve its purpose although to what end I am not sure with fuzzy networks being taught on which the professor alone is the specialized person to contact, outside in the real world, not sure what the gauged impact is for ART SOM and Neuro-Fuzzy networks. 
 
 However, the project was really amazing and you can find it here: https://github.com/DarthAmk97/CE889_DL
